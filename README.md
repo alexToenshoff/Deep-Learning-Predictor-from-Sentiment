@@ -1,1 +1,1 @@
-# Deep-Learning-Predictor-from-Sentiment
+# Nural Network Price Predictions
